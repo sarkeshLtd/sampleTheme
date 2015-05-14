@@ -1,0 +1,19 @@
+/**
+    if user set localize on Right to left language,this file loaded after style.css file.
+    in this file you can change direction and fonts in RTL languages
+**/
+
+body{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+body{
+	font-family: 'tahoma' !important;
+}
+h1, h2, h3{
+	font-family: 'tahoma' !important;
+}
+h4, h5, h6, p, blockquote, li{
+	font-family: 'tahoma' !important;
+}
